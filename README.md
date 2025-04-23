@@ -1,6 +1,10 @@
-
 <p align="center">
-    <img src="https://uploaddeimagens.com.br/images/004/893/258/original/dodo-prog.png?1745394241" alt="Banner" width="100%"/>
+    <img 
+      src="https://uploaddeimagens.com.br/images/004/893/258/original/dodo-prog.png?1745394241" 
+      alt="Banner" 
+      width="80%" 
+      style="max-width:600px;"
+    />
   </p>
   
   <h1 align="center">👋 Saudação, me chamo <a href="https://github.com/hericlessoares">Hericles Soares!</a></h1>
