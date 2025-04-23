@@ -1,9 +1,10 @@
-<p align="center">
-    <img 
-      src="https://uploaddeimagens.com.br/images/004/893/258/original/dodo-prog.png?1745394241" 
-      alt="Banner" 
-      width="80%" 
-      style="max-width:600px;"
+<p align="center" style="max-width:100%; background-color: #532E7A">
+    <img
+      src="https://uploaddeimagens.com.br/images/004/893/258/original/dodo-prog.png?1745394241"
+      alt="Banner"
+      height="200px"
+      style="max-width:100%;"
+
     />
   </p>
   
