@@ -1,35 +1,22 @@
+<table align="center">
+    <tr>
+      <!-- Coluna da imagem -->
+      <td valign="middle" width="128">
+        <img
+          src="https://uploaddeimagens.com.br/images/004/893/258/original/dodo-prog.png?1745394241"
+          alt="Dodo Programador"
+          width="128"
+        />
+      </td>
+      <!-- Coluna do texto -->
+      <td valign="middle">
+        <h1>👋 Olá, eu sou <a href="https://github.com/hericlessoares">Hericles Soares</a>!</h1>
+        <p><em>Engenheiro de Software • IA & Cloud • Dev Web, Dados & Automações</em></p>
+      </td>
+    </tr>
+  </table>
 
-<div align="center" style="
-  background: linear-gradient(135deg, #5E3A8C, #8B5CF6);
-  padding: 20px;
-  border-radius: 12px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 20px;
-  max-width: 800px;
-  margin: 0 auto 30px;
-">
-
-  <img
-    src="https://uploaddeimagens.com.br/images/004/893/258/original/dodo-prog.png?1745394241"
-    alt="Dodo Programador"
-    style="
-      height: 120px;
-      width: auto;
-      border-radius: 8px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-    "
-  />
-
-
-  <div style="text-align: left; color: #F3F4F6; max-width: 500px;">
-    <h1 style="margin:0; font-size:2rem;">👋 Olá, eu sou <a href="https://github.com/hericlessoares" style="color:#FBBF24; text-decoration:none;">Hericles Soares</a>!</h1>
-    <p style="margin: 8px 0 0; font-size:1rem; opacity:0.9;">
-      Engenheiro de Software • IA & Cloud • Apaixonado por Desenvolvimento Web, Dados e Automações
-    </p>
-  </div>
-</div>
+  
 
   
   ---
